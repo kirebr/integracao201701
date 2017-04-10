@@ -11,9 +11,7 @@ public class CSVReader
 	
 		String keyWord = "dengue";
 		
-		BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\alunoinf\\Documents\\GitHub\\integracao201701\\CID-10\\CID-10-SUBCATEGORIAS.CSV"));
-		
-		
+		BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\alunoinf\\Documents\\GitHub\\integracao201701\\CID-10\\integracao201701\\CID-10.CSV"));
 		String line = "";
 		
 		while ((line = br.readLine()) != null) {
