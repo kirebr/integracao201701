@@ -7,7 +7,21 @@ import java.util.ArrayList;
 
 public class Searcher 
 {
-	public ArrayList<String> searchKeyword(BufferedReader br, String keyword ) throws IOException {
+	public ArrayList<String> search(BufferedReader br, String keyword )
+	{
+		String[] keywordsList = getKeywordsList( keyword );
+		return null;
+	}
+	
+	public String[] getKeywordsList( String keyword )
+	{
+		String[] keywordsList = keyword.split(" ");
+		
+		return keywordsList;
+	}
+	
+	public ArrayList<String> searchKeyword(BufferedReader br, String keyword ) throws IOException 
+	{
 	
 		String line = "";
 		ArrayList<String> results = new ArrayList<String>();

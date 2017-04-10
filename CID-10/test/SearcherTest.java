@@ -55,5 +55,13 @@ public class SearcherTest {
 		
 		assertTrue( result.contains( "dengue"));
 	}
+	
+	@Test
+	public void getKeywordsListNumberOfResultsIsRight()
+	{
+		String[] results = searcher.getKeywordsList( "Eu sou um cachorro");
+		
+		assertEquals(results.length, 5);
+	}
 
 }
