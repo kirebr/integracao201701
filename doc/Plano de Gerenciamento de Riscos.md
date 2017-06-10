@@ -7,7 +7,7 @@
 | **Solicitante:** Fábio Nogueira |
 | **Inicio:** 22/05/2017          |
 | **Término:** 26/06/2017         |
-| **Analista de Processos: Erik Raphael|
+| **Analista de Processos:** Erik Raphael|
 
 | **Histórico de Registros** | 
 |----------------------------|
@@ -54,7 +54,7 @@
 Os riscos identificados serão qualificados na sua probabilidade de
 ocorrência e impacto ou gravidade dos seus resultados.
 
-1.  **– Probabilidade**
+>  **1.1 – Probabilidade**
 
 -   **Baixa** – A probabilidade de ocorrência do risco pode ser
     considerada pequena ou imperceptível (menor do que 20%).
@@ -91,53 +91,53 @@ aceitação passiva ou transferência), seguindo os critérios:
 > **1.1 – Eliminação:** Alteração de escopo e/ou dos planos do projeto a
 > fim de eliminar a causa do risco, reduzindo a zero a probabilidade de
 > ocorrência deste.
->
+
 > **2.1 – Transferência:** Passar a responsabilidade e impactos do risco
 > para uma terceira parte, geralmente na forma de subcontratação. Um
 > risco transferido não é eliminado, este ainda poderá se materializar e
 > por isso deve ser monitorado.
->
+
 > **3.1 – Mitigação:** Ações antecipadas para a redução da probabilidade
 > de ocorrência e/ou impacto do risco para uma tolerância aceitável. O
 > custo das ações de mitigação do risco deve ser inferior ao impacto
 > deste para o projeto.
->
+
 > **4.1 – Aceitação:** Decisão de não realizar nenhuma ação preventiva
 > (plano de mitigação) em resposta ao risco, em razão da incapacidade da
 > equipe do projeto em tratar o risco.
 
--   **Aceitação ativa:** Riscos para os quais são planejadas ações
+>   **Aceitação ativa:** Riscos para os quais são planejadas ações
     de contingência.
 
--   **Aceitação passiva:** Riscos para os quais não é necessário definir
+>   **Aceitação passiva:** Riscos para os quais não é necessário definir
     ações de contingência. Nestes casos, quando o risco ocorrer será
     avaliada a resposta viável (workaround).
 
 <!-- -->
 
 -   Riscos de perda esperada baixa não demandam o planejamento de
-    > respostas, sendo assim são classificados como estratégia de
-    > aceitação passiva;
+    respostas, sendo assim são classificados como estratégia de
+    aceitação passiva;
 
 -   Riscos de perda esperada média demandam, pelo menos, o planejamento
-    > de ações de contingência, portanto são classificados como
-    > estratégia de aceitação ativa;
+    de ações de contingência, portanto são classificados como
+    estratégia de aceitação ativa;
 
 -   Riscos de perda esperada alta, devido a sua prioridade, demandam de,
-    > pelo menos, ações de mitigação e contingência, portanto são
-    > classificados como estratégia de mitigação, transferência ou
-    > eliminação;
+    pelo menos, ações de mitigação e contingência, portanto são
+    classificados como estratégia de mitigação, transferência ou
+    eliminação;
 
 -   Riscos classificados como estratégia de eliminação não demandam a
-    > identificação das ações de mitigação e contingência.
+    identificação das ações de mitigação e contingência.
 
 -   Para os riscos de perda esperada alta, o Analista de Processos
-    > realiza análise de custo x benefício das estratégias de
-    > eliminação, transferência ou mitigação dos riscos, comparando o
-    > custo ou tempo total do projeto com:
+    realiza análise de custo x benefício das estratégias de
+    eliminação, transferência ou mitigação dos riscos, comparando o
+    custo ou tempo total do projeto com:
 
 -   O custo ou tempo da implementação dos planos de eliminação ou
-    > mitigação do risco;
+    mitigação do risco;
 
 -   O custo da transferência do risco.
 
@@ -171,7 +171,7 @@ atividade de avaliação de risco não será necessária.
 
 > Erik Raphael Ribeiro da Costa, Analista de Processos, será o
 > responsável direto pelo plano de gerenciamento de Riscos.
->
+
 > Igor Queiroz e Rodolpho Hiroshi, membros do time do projeto, serão
 > suplentes do responsável direto pelo plano de gerenciamento de Riscos,
 > nos casos julgados necessários pelo Analista de Processos.
@@ -193,7 +193,7 @@ suplência, para aprovação. Imediatamente após sua aprovação, o plano de
 gerenciamento de riscos deverá ser atualizado com o devido registro das
 alterações efetivadas.
 
-**9 – Aprovações **
+**9 – Aprovações**
 
 | **Aprovado por** | **Data**   |
 |------------------|------------|
