@@ -1,19 +1,19 @@
 **Plano de Gerenciamento de Riscos do Projeto**
 
-| Identificação                   |
+| **Identificação**               |
 |---------------------------------|
 | **Projeto:** CID-10             |
-|                                 |
+| **Versão:** 1.1                 |
 | **Solicitante:** Fábio Nogueira |
-|                                 |
-|                                 |
-|                                 |
+| **Inicio:** 22/05/2017          |
+| **Término:** 26/06/2017         |
+| **Analista de Processos: Erik Raphael|
 
-| **Histórico de Registros** |
+| **Histórico de Registros** | 
 |----------------------------|
 | **Versão**                 |
-| 1.0                        |
-| 1.1                        |
+| **1.0** Criação do documento|
+| **1.1** Alteração do documento|
 
 **1 – Descrição dos processos de gerenciamento de riscos**
 
